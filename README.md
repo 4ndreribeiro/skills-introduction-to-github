@@ -37,9 +37,10 @@ Os cabeçalhos são usados para organizar informações em tópicos. No Markdown
 
 
 
-```💻 Exemplo de Código (Comandos Git)
+💻 Exemplo de Código (Comandos Git)
 Aqui estão alguns comandos básicos que usamos no Git, explicados passo a passo:
 
+```bash
 # Configurar seu usuário
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@exemplo.com"
