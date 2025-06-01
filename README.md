@@ -76,7 +76,7 @@ git pull origin main
 ```
 
 ## ✅ Lista de Tarefas (Checklist dos Comandos Git)
- - [x]Configurar nome e email no Git
+ - [x] Configurar nome e email no Git
 
  - [x] Inicializar um repositório Git
 
