@@ -41,8 +41,7 @@ markdown
 💻 Exemplo de Código (Comandos Git)
 Aqui estão alguns comandos básicos que usamos no Git, explicados passo a passo:
 
-```
-bash
+``` bash
 # Configurar seu usuário
 git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@exemplo.com"
