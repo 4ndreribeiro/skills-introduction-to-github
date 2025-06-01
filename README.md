@@ -26,11 +26,12 @@ Neste curso, você irá aprender conceitos básicos de Git e GitHub, criando e e
 ## 🏷️ Adicionando Cabeçalhos
 Os cabeçalhos são usados para organizar informações em tópicos. No Markdown você usa # para definir o nível do cabeçalho.
 
-```markdown
+```
+markdown
 # Cabeçalho nível 1
 ## Cabeçalho nível 2
 ### Cabeçalho nível 3
-
+```
 
 🖼️ Adicionando uma Imagem
 
