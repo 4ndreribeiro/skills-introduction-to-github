@@ -72,7 +72,7 @@ git checkout main
 
 # Atualizar a branch principal
 git pull origin main
-
+```
 
 ## ✅ Lista de Tarefas (Checklist dos Comandos Git)
  - [x]Configurar nome e email no Git
